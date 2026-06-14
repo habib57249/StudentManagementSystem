@@ -1,0 +1,16 @@
+C:\Users\hp\Desktop\vpl lab project\mnt\data\StudentManagementSystem\bin\Debug\net8.0-windows\StudentManagementSystem.exe
+C:\Users\hp\Desktop\vpl lab project\mnt\data\StudentManagementSystem\bin\Debug\net8.0-windows\StudentManagementSystem.deps.json
+C:\Users\hp\Desktop\vpl lab project\mnt\data\StudentManagementSystem\bin\Debug\net8.0-windows\StudentManagementSystem.runtimeconfig.json
+C:\Users\hp\Desktop\vpl lab project\mnt\data\StudentManagementSystem\bin\Debug\net8.0-windows\StudentManagementSystem.dll
+C:\Users\hp\Desktop\vpl lab project\mnt\data\StudentManagementSystem\bin\Debug\net8.0-windows\StudentManagementSystem.pdb
+C:\Users\hp\Desktop\vpl lab project\mnt\data\StudentManagementSystem\obj\Debug\net8.0-windows\StudentManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\vpl lab project\mnt\data\StudentManagementSystem\obj\Debug\net8.0-windows\StudentManagementSystem.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\vpl lab project\mnt\data\StudentManagementSystem\obj\Debug\net8.0-windows\StudentManagementSystem.AssemblyInfo.cs
+C:\Users\hp\Desktop\vpl lab project\mnt\data\StudentManagementSystem\obj\Debug\net8.0-windows\StudentManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\vpl lab project\mnt\data\StudentManagementSystem\obj\Debug\net8.0-windows\StudentManagementSystem.dll
+C:\Users\hp\Desktop\vpl lab project\mnt\data\StudentManagementSystem\obj\Debug\net8.0-windows\refint\StudentManagementSystem.dll
+C:\Users\hp\Desktop\vpl lab project\mnt\data\StudentManagementSystem\obj\Debug\net8.0-windows\StudentManagementSystem.pdb
+C:\Users\hp\Desktop\vpl lab project\mnt\data\StudentManagementSystem\obj\Debug\net8.0-windows\StudentManagementSystem.genruntimeconfig.cache
+C:\Users\hp\Desktop\vpl lab project\mnt\data\StudentManagementSystem\obj\Debug\net8.0-windows\ref\StudentManagementSystem.dll
+C:\Users\hp\Desktop\vpl lab project\mnt\data\StudentManagementSystem\obj\Debug\net8.0-windows\StudentManagementSystem.Forms.LoginForm.resources
+C:\Users\hp\Desktop\vpl lab project\mnt\data\StudentManagementSystem\obj\Debug\net8.0-windows\StudentManagementSystem.csproj.GenerateResource.cache

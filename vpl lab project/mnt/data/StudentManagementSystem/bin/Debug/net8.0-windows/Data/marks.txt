@@ -1,0 +1,3 @@
+1|english|70
+4|math|80
+5|physics|60
